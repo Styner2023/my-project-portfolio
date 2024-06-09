@@ -1,5 +1,3 @@
-# my-project-portfolio
-
 # My Awesome Projects
 
 Welcome to my project showcase! Here you'll find a collection of my best work.
